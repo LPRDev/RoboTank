@@ -8,7 +8,7 @@ Manual control is provided using an existing free Android application called Blu
 
 Once the Tank is moving, it can maneuver around object objects and continue moving. A sonar based sensor can detect objects in its path and make appropriate turns to go around the object.
 
-For further detials on how to recreate thisp project refer to the <a href="https://github.com/LPRDev/RoboTank/wiki"> RoboTank wiki</a>.
+For further detials on how to recreate this project refer to the <a href="https://github.com/LPRDev/RoboTank/wiki"> RoboTank wiki</a>.
 
 # Power
 A power switch is located under the front of the tank. Use this to conserve the battery drain when not using, Note that when the power is turned back on the Blue Control app must “reconnect” to the HC-06 device (the Bluetooth shield on the Tank). 
