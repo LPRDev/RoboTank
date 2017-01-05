@@ -31,14 +31,14 @@ Approximate cost for this project is about $60, not including an Adroid device t
 
 <a href="https://play.google.com/store/apps/details?id=com.gundel.bluecontrol&hl=en"> BlueControl </a> is a free Android app, available from Google Play. Blue control provides a set of directional arrows to control the direction (Front,Back, Right, Left, and Stop) as well as 8 extra buttons for controls (A-H). Here’s what they do for the Robo Tank:
 
-A: Blink the Led on the Arduino Board (Good for connectivity testing).
-B: Spin Left (amount depends on battery power)
-C: Run the Left tread only (Good for a wire test)
-D: Move forward at top speed
-E:Nothing
-F: Spin Right (amount depends on battery power)
-G: Run the right tread only (good for a wire test)
-H: Move Backward at top speed
+* A: Blink the Led on the Arduino Board (Good for connectivity testing).
+* B: Spin Left (amount depends on battery power)
+* C: Run the Left tread only (Good for a wire test)
+* D: Move forward at top speed
+* E:Nothing
+* F: Spin Right (amount depends on battery power)
+* G: Run the right tread only (good for a wire test)
+* H: Move Backward at top speed
 
 ## Connecting to the Tank via Bluetooth
 
