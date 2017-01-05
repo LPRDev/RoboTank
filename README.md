@@ -29,7 +29,7 @@ Approximate cost for this project is about $60, not including an Adroid device t
 
 # Blue Control
 
-<a href="https://play.google.com/store/apps/details?id=com.gundel.bluecontrol&hl=en"> BlueControl </a> “Blue Control” is a free Android app, available from Google Play. Blue control provides a set of directional arrows to control the direction (Front,Back, Right, Left, and Stop) as well as 8 extra buttons for controls (A-H). Here’s what they do for the Robo Tank:
+<a href="https://play.google.com/store/apps/details?id=com.gundel.bluecontrol&hl=en"> BlueControl </a> is a free Android app, available from Google Play. Blue control provides a set of directional arrows to control the direction (Front,Back, Right, Left, and Stop) as well as 8 extra buttons for controls (A-H). Here’s what they do for the Robo Tank:
 
 A: Blink the Led on the Arduino Board (Good for connectivity testing).
 B: Spin Left (amount depends on battery power)
@@ -46,7 +46,7 @@ Before Blue Control can send command it must “connect” to the Tanks Bluetoot
 # Notes
 ## Gearbox 
 
-GearBox_TamiyaThe Tamyia Double Gearbox was assembled using the 114.7:1 gear ratio. Using a lower gear ration proved to be too much for the small motors to handle. The Gearbox can be reconfigured to one of four gear ratio settings. To get higher speeds on can reconfigure the box for a lower gear ratio, however the tank may be difficult to start and may shorten the battery life.
+The Tamyia Double Gearbox was assembled using the 114.7:1 gear ratio. Using a lower gear ration proved to be too much for the small motors to handle. The Gearbox can be reconfigured to one of four gear ratio settings. To get higher speeds on can reconfigure the box for a lower gear ratio, however the tank may be difficult to start and may shorten the battery life.
 ## Battery
 
 A five cell (5.2 V) packaged rechargeable battery was found to provide the goof charge/performance for the tank. A single battery (versus two for separating the controller and the motor) was chosen to lessen the battery maintenance burden. One can add a second battery to the main Arduino board and remove the jumper on the motor shield to provide this capability.
