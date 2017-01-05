@@ -1,6 +1,8 @@
 # RoboTank
 An entry level Arduino based project that builds a minature tank contolled by Blue Control (a free Andoid app)
-
+<a href="https://github.com/LPRDev/RoboTank/blob/master/images/RoboTank1.jpg">
+<img src="https://github.com/LPRDev/RoboTank/blob/master/images/RoboTank1.jpg" align="right" width="25%" height="25%">
+</a>
 Robo Tank is a project that explores robotics by creating a semi autonomous tank that can explore its surroundings.
 
 Manual control is provided using an existing free Android application called Blue control (see details below). Blue Control sends commands to the Tank which are received by a Bluetooth shield and sent to the main processor for making adjustments to the tanks speed/direction. This allows starting/stopping, and turning controls.
