@@ -17,7 +17,7 @@ To Recharge the batteries pull out the connector labeled “Recharge” and plug
 
 # Hardware
 
-The Robo Tank can assembled using the following parts (see the <a href="https://github.com/LPRDev/RoboTank/wiki/PartsList"> parts list page</a> for more detials):
+The Robo Tank can assembled using the following parts (see the <a href="https://github.com/LPRDev/RoboTank/wiki/PartsList"> parts list page</a> for a detialed list):
 
 * <a href="https://www.arduino.cc/en/Main/ArduinoBoardUno"> Aruduino UNO </a> (Any Ardino that can mount the LD293 should do)
 * <a href="http://www.tamiya.com/english/products/70108tracked_vehicle/index.htm">Tamiya Tank kit </a>, a small 8 inch model tank platform
@@ -27,7 +27,7 @@ The Robo Tank can assembled using the following parts (see the <a href="https://
 *  <a href="http://www.micropik.com/PDF/HCSR04.pdf"> HC-SR04 Sonor Sensor</a> for detecting object in the tanks path.
 * <a href="https://play.google.com/store/apps/details?id=com.gundel.bluecontrol&hl=en"> Blue Control android app </a>(free)
 
-Approximate cost for this project is about $80, not including an Adroid device to run Blue Control. see the <a href="https://github.com/LPRDev/RoboTank/wiki/PartsList"> parts list page</a> for more detials. 
+Approximate cost for this project is about $110, not including an Adroid device to run Blue Control. see the <a href="https://github.com/LPRDev/RoboTank/wiki/PartsList"> parts list page</a> for more detials. 
 
 # Blue Control
 
