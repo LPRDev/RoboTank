@@ -1,6 +1,6 @@
 # RoboTank
 <a href="https://github.com/LPRDev/RoboTank/blob/master/images/RoboTank1.png">
-<img src="https://github.com/LPRDev/RoboTank/blob/master/images/RoboTank1.png" align="right" width="25%" height="25%">
+<img src="https://github.com/LPRDev/RoboTank/blob/master/images/RoboTank1_small.png" align="right" width="25%" height="25%">
 </a>
 Robo Tank is a project that explores robotics by creating a semi autonomous tank that can explore its surroundings.
 
@@ -17,7 +17,7 @@ To Recharge the batteries pull out the connector labeled “Recharge” and plug
 
 # Hardware
 
-The Robo Tank was assembled using the following parts:
+The Robo Tank can assembled using the following parts (see parts list page for more detials):
 
 * <a href="https://www.arduino.cc/en/Main/ArduinoBoardUno"> Aruduino UNO </a> (Any Ardino that can mount the LD293 should do)
 * <a href="http://www.tamiya.com/english/products/70108tracked_vehicle/index.htm">Tamiya Tank kit </a>, a small 8 inch model tank platform
