@@ -27,7 +27,7 @@ The Robo Tank can assembled using the following parts (see the <a href="https://
 *  <a href="http://www.micropik.com/PDF/HCSR04.pdf"> HC-SR04 Sonor Sensor</a> for detecting object in the tanks path.
 * <a href="https://play.google.com/store/apps/details?id=com.gundel.bluecontrol&hl=en"> Blue Control android app </a>(free)
 
-Approximate cost for this project is about $60, not including an Adroid device to run Blue Control.
+Approximate cost for this project is about $80, not including an Adroid device to run Blue Control. see the <a href="https://github.com/LPRDev/RoboTank/wiki/PartsList"> parts list page</a> for more detials. 
 
 # Blue Control
 
