@@ -45,13 +45,3 @@ Approximate cost for this project is about $80, not including an Adroid device t
 ## Connecting to the Tank via Bluetooth
 
 Before Blue Control can send command it must “connect” to the Tanks Bluetooth shield. To do this first turn on the power to the Tank (switch on the bottom of the Tank). Note that the Bluetooth controller should start blinking when this happens. On the Android invoke the Blue Control app and select the configure button on the android device (usually three or so horizontal lines). Select “connect to device”. The app will search for available devices and it should present an “HC-06” device. Select the HC-06 and it should return to it main screen and display a “connected to device HC-06” message within a few seconds.Select the forward button to start the Tank.
-# Notes
-## Gearbox 
-
-The Tamyia Double Gearbox was assembled using the 114.7:1 gear ratio. Using a lower gear ration proved to be too much for the small motors to handle. The Gearbox can be reconfigured to one of four gear ratio settings. To get higher speeds on can reconfigure the box for a lower gear ratio, however the tank may be difficult to start and may shorten the battery life.
-## Battery
-
-A five cell (5.2 V) packaged rechargeable battery was found to provide the goof charge/performance for the tank. A single battery (versus two for separating the controller and the motor) was chosen to lessen the battery maintenance burden. One can add a second battery to the main Arduino board and remove the jumper on the motor shield to provide this capability.
-
-Another option is a cheap cell phone battery battery charger that provides as least 500 mah. These are very convient, charge from a usb, will provide 10 minutes or more of active time with the Robotank.
-
