@@ -30,7 +30,9 @@ The Robo Tank can assembled using the following parts (see the <a href="https://
 Approximate cost for this project is about $110, not including an Adroid device to run Blue Control. See the <a href="https://github.com/LPRDev/RoboTank/wiki/PartsList"> parts list page</a> for more detials. 
 
 # Blue Control
-
+<a href="https://github.com/LPRDev/RoboTank/blob/master/images/BlueControl.jpg">
+<img src="https://github.com/LPRDev/RoboTank/blob/master/images/BlueControl.jpg" align="right" width="25%" height="25%">
+</a>
 <a href="https://play.google.com/store/apps/details?id=com.gundel.bluecontrol&hl=en"> BlueControl </a> is a free Android app, available from Google Play. Blue control provides a set of directional arrows to control the direction (Front,Back, Right, Left, and Stop) as well as 8 extra buttons for controls (A-H). Here’s what they do for the Robo Tank:
 
 * A: Blink the Led on the Arduino Board (Good for connectivity testing).
